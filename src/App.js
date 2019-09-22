@@ -5,6 +5,7 @@ import ModifySchedule from "./Components/ModifySchedule/ModifySchedule";
 import ViewClass from "./Components/ViewClass/ViewClass";
 export default class App extends Component {
 	render() {
+		// test
 		return (
 			<Router>
 				<div>
